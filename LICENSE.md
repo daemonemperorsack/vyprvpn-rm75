@@ -1,4 +1,4 @@
-
+Enhance your VyprVPN experience with VyprVPN ultra-secure Extension: kill-switch & static-IP, the #1 extension. Includes kill-switch and static-IP for a safer and more private
 
 
 
